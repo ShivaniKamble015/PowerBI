@@ -1,2 +1,2 @@
 # PowerBI_Project_Dashboard
-This is a project on Blinkit Sales Analysis
+This is the Power BI end to end projects
